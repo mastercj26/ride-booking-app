@@ -169,12 +169,4 @@ It strengthened my understanding of **client-server communication**, **project s
 
 ---
 
-## 🧑‍💻 Author
-
-**Aman Latya**
-Final Year B.Tech Student | Full Stack Developer
-📧 amanlatya23@gmail.com
-🔗 www.linkedin.com/in/aman-latya-379a12253
-
----
 
