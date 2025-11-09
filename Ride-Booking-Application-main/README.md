@@ -1,8 +1,4 @@
-Perfect 👍 — here’s a **professional and attractive README.md** content you can directly add to your **GitHub repository** for your **Online Ride Booking Application (Uber Clone)** developed during your **Teksoft Labs Internship**.
 
-It’s clean, structured, and uses standard markdown styling for GitHub (with badges, emojis, and sections).
-
----
 
 # 🚗 Online Ride Booking Application (Uber Clone)
 
