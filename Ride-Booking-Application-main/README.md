@@ -1,3 +1,6 @@
+<img width="155" height="239" alt="image" src="https://github.com/user-attachments/assets/f66e4d8d-1bb7-48f9-8f04-4115deb446cf" />
+<img width="372" height="517" alt="Screenshot 2025-10-26 174620" src="https://github.com/user-attachments/assets/d282974c-1209-4b58-bc53-b021491539b7" />
+
 
 
 # 🚗 Online Ride Booking Application (Uber Clone)
